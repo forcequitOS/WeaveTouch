@@ -33,3 +33,5 @@ Complete toolbar redesign with support for customizations
 Built in function to export as an IPA
 
 Share Sheet support
+
+Keyboard shortcuts
