@@ -28,6 +28,8 @@ Current app icon designer: Me
 
 ## What's next?
 
+Fixed script injection
+
 Complete toolbar redesign with support for customizations
 
 Built in function to export as an IPA
