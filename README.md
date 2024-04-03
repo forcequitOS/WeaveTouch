@@ -44,4 +44,4 @@ CSS and JavaScript injection (for now, this is one update away, though)
 
 Actually commented code lmao
 
-"Download Page" button (I simply don't need it at this time)
+"Download Page" button (I simply don't need it at this time and implementing it would be difficult compared to on the Mac)
