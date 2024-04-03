@@ -30,10 +30,18 @@ Current app icon designer: Me
 
 Fixed script injection
 
-Complete toolbar redesign with support for customizations
+An iPhone-friendly UI
 
 Built in function to export as an IPA
 
-Share Sheet support
+## Features Weave Touch is missing compared to Weave:
 
-Keyboard shortcuts
+Toolbar customization (haven't figured out why)
+
+Sharing support (technical reasons, Swift Playgrounds crashes when I try using the Share Sheet)
+
+CSS and JavaScript injection (for now, this is one update away, though)
+
+Actually commented code lmao
+
+"Download Page" button (I simply don't need it at this time)
