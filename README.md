@@ -36,7 +36,7 @@ Proper versioning scheme and bundle identifier
 
 iPhone support and better Split View/SlideOver support (*wink wink*)
 
-![A screenshot of the Weave Touch application running on an iPhone](https://github.com/CtrliPhones/WeaveTouch/blob/main/Weave%20Touch%20Preview%20Phone.png)
+![A screenshot of the Weave Touch application running on an iPhone](https://github.com/CtrliPhones/WeaveTouch/blob/main/Weave%20Touch%20Preview%20Phone.png?raw=true)
 
 ## Features Weave Touch is missing compared to Weave:
 
