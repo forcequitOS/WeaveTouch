@@ -1,4 +1,4 @@
-# Weave Touch for iPad
+# Weave Touch for iPad and iPhone
 ### My experimental playground for messing with Swift and SwiftUI on iOS, initially kickstarted by ChatGPT.
 ![A screenshot of the Weave Touch application running on an iPad fullscreen with the latest design](https://github.com/CtrliPhones/WeaveTouch/blob/main/Weave%20Touch%20Preview.png?raw=true)
 
