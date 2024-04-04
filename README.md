@@ -1,6 +1,6 @@
 # Weave Touch for iPad
 ### My experimental playground for messing with Swift and SwiftUI on iPadOS, initially kickstarted by ChatGPT.
-![A screenshot of the Weave Touch application running on an iPad fullscreen](https://github.com/CtrliPhones/WeaveTouch/blob/main/Weave%20Touch%20Preview.png?raw=true)
+![A screenshot of the Weave Touch application running on an iPad fullscreen with the latest design](https://github.com/CtrliPhones/WeaveTouch/blob/main/Weave%20Touch%20Preview.png?raw=true)
 
 ## Features:
 
@@ -28,9 +28,15 @@ Current app icon designer: Me
 
 Fixed script injection
 
-An iPhone-friendly UI
+Swipe gestures for back/forward controls
 
-Built in function to export as an IPA
+IPA builds of the application
+
+Proper versioning scheme and bundle identifier
+
+iPhone support (*wink wink*)
+
+![A screenshot of the Weave Touch application running on an iPhone](https://github.com/CtrliPhones/WeaveTouch/blob/main/Weave%20Touch%20Preview%20Phone.png?raw=true)
 
 ## Features Weave Touch is missing compared to Weave:
 
