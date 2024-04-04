@@ -1,5 +1,5 @@
 # Weave Touch for iPad
-### My experimental playground for messing with Swift and SwiftUI on iPadOS, initially kickstarted by ChatGPT.
+### My experimental playground for messing with Swift and SwiftUI on iOS, initially kickstarted by ChatGPT.
 ![A screenshot of the Weave Touch application running on an iPad fullscreen with the latest design](https://github.com/CtrliPhones/WeaveTouch/blob/main/Weave%20Touch%20Preview.png?raw=true)
 
 ## Features:
@@ -8,7 +8,7 @@
 
 Pull-to-refresh and pinch to zoom gesture support
 
-No sideloading required to run on iPad!
+No sideloading required to run on iPad (via Swift Playgrounds)!
 
 Clean design
 
@@ -18,9 +18,9 @@ Sometimes gets new features before Weave for Mac
 
 ## Information:
 
-**REQUIRES** an iPad running iPadOS 16.0 or newer with Swift Playground 4.0 or newer installed to run directly, can also be compiled as an IPA to run on any iOS 16+ device (untested) or run on a Mac with macOS Ventura or newer with Swift Playgrounds or Xcode in Mac Catalyst.
+**REQUIRES** an iPad running iPadOS 16.0 or later with Swift Playground 4.0 or newer installed to run directly, or a Mac with macOS Ventura or newer with Swift Playgrounds or Xcode in Mac Catalyst/iPad compatibility mode, or an iPhone running iOS 16.0 or later with a Mac to deploy the application to.
 
-Built with Swift Playgrounds 4, SwiftUI, WebKit, and of course, made (mostly) with ChatGPT.
+Built with Swift Playgrounds 4, Xcode, SwiftUI, WebKit, and of course, made (mostly) with ChatGPT.
 
 Current app icon designer: Me
 
@@ -34,9 +34,9 @@ IPA builds of the application
 
 Proper versioning scheme and bundle identifier
 
-iPhone support (*wink wink*)
+iPhone support and better Split View/SlideOver support (*wink wink*)
 
-![A screenshot of the Weave Touch application running on an iPhone](https://github.com/CtrliPhones/WeaveTouch/blob/main/Weave%20Touch%20Preview%20Phone.png?raw=true)
+![A screenshot of the Weave Touch application running on an iPhone](https://github.com/CtrliPhones/WeaveTouch/blob/main/Weave%20Touch%20Preview%20Phone.png)
 
 ## Features Weave Touch is missing compared to Weave:
 
