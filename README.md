@@ -1,14 +1,14 @@
 # Weave Touch for iPad and iPhone
 ### My experimental playground for messing with Swift and SwiftUI on iOS, initially kickstarted by ChatGPT.
-![A screenshot of the Weave Touch application running on an iPad fullscreen with the latest design](https://github.com/CtrliPhones/WeaveTouch/blob/main/Weave%20Touch%20Preview.png?raw=true)
+![A screenshot of the Weave Touch application running on an iPad and an iPhone next to eachother](https://github.com/CtrliPhones/WeaveTouch/blob/main/Weave%20Touch%20Preview.png?raw=true)
 
 ## Features:
 
-95% of the Weave experience as on macOS
+95% of the Weave macOS experience
 
 Pull-to-refresh and pinch to zoom gesture support
 
-No sideloading required to run on iPad (via Swift Playgrounds)!
+No sideloading required to run on iPads (via Swift Playgrounds)!
 
 Clean design
 
@@ -20,16 +20,16 @@ Clean design
 
 Built with Swift Playgrounds, Xcode, SwiftUI, WebKit, and of course, made (mostly) with ChatGPT.
 
-Current app icon designer: Me
+Current app icon designer: [@dootskyre on Twitter](https://twitter.com/dootskyre)
 
 ## What's next?
 
-iPhone support and better Split View/SlideOver support (*wink wink*)
+Potential visionOS support??
 
-![A screenshot of the Weave Touch application running on an iPhone](https://github.com/CtrliPhones/WeaveTouch/blob/main/Weave%20Touch%20Preview%20Phone.png?raw=true)
+We'll see at WWDC24 what else drops.
 
 ## Features Weave Touch is missing compared to Weave:
 
-Toolbar customization (haven't figured out why)
+Toolbar customization (haven't figured out why, yet)
 
 "Download Page" button (I simply don't need it at this time and implementing it would be difficult compared to on the Mac)
